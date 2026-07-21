@@ -35,5 +35,5 @@ Analyzed 238,000+ NYC traffic collision records from 2021–2023, breaking down 
  
 ## 📫 Connect With Me
  
-* LinkedIn: [linkedin.com/in/peteradejumo](https://linkedin.com/in/peteradejumo)
+* LinkedIn: [linkedin.com/in/peteradejumo](https://www.linkedin.com/in/peterifeanyichukwuadejumo)
 * Email: adejumo91@gmail.com
