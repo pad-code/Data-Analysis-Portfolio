@@ -32,7 +32,10 @@ Built a pivot-table analysis of every UCL final from 1956 to 2024, covering matc
 
 ### 7. NYC Vehicle Collision Analysis — Excel
 Analyzed 238,000+ NYC traffic collision records from 2021–2023, breaking down incidents by borough, time of day, and contributing factor. Found Brooklyn accounted for the highest share of collisions, and driver inattention/distraction was the leading identifiable cause.
- 
+
+ ### 8. Ad Campaign Performance Analysis — SQL, Tableau
+Analyzed a Jan–Nov paid advertising campaign for AdCore Solutions ($558K spend, $4M revenue), using SQL to clean the data and Tableau to build the dashboard. Found that budget was misallocated across keywords, as the lowest-spend keyword generated the most revenue, and that desktop led conversions (5,800) even though mobile drove the most clicks.
+
 ## 📫 Connect With Me
  
 * LinkedIn: [linkedin.com/in/peteradejumo](https://www.linkedin.com/in/peterifeanyichukwuadejumo)
