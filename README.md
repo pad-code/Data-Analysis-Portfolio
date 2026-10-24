@@ -25,7 +25,7 @@ Built a dashboard tracking laptop sales across 3 branches over 2 years, covering
 Analyzed 10,000 patient admission records across 2 diagnosis groups, breaking down patient volume by age group and gender to surface admission patterns over time.
  
 ### 5. Beryl Bank Customer Insights Dashboard — Power BI
-Analyzed 1,025 bank customers across 5 branches over 3 years, tracking a churn rate of 33.4%. Broke down active vs. inactive customers by branch, manager, occupation, and age group to identify where attrition was concentrated.
+Analyzed 1,025 bank customers across 5 branches over 3 years, tracking a churn rate of 33.4%. Broke down active vs. inactive customers by branch, manager, occupation, and age group to identify where attrition was concentrated. ./Beryl Bank.pbix
  
 ### 6. UEFA Champions League Historical Finals Analysis — Excel
 Built a pivot-table analysis of every UCL final from 1956 to 2024, covering match results, attendance, and goals scored. Found RealMadrid holds the most titles (15), while Juventus has appeared as runner-up more than any other club (7 times).
